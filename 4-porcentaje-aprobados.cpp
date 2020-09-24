@@ -1,4 +1,11 @@
+/*
+ * Curso de Programación 1. Tema 1
+ * Autores: Miguel Ángel Latre
+ * Última revisión: 24 de septiembre de 2020
+ * Resumen: Programa erróneo que pretende escribir en la pantalla un porcentaje. 
+ */
 #include <iostream>
+using namespace std;
 
 /*
  * Programa erróneo que pretende escribir en la pantalla el porcentaje de
@@ -11,5 +18,5 @@ int main() {
     
     double porcentaje = aprobados / matriculados * 100;
     
-    std::cout << porcentaje << std::endl;
+    cout << porcentaje << endl;
 }
