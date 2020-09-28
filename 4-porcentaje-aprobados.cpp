@@ -13,8 +13,8 @@ using namespace std;
  * estudiantes matriculados.
  */
 int main() {
-    int aprobados = 95;
-    int matriculados = 160;
+    unsigned int aprobados = 95;
+    unsigned int matriculados = 160;
     
     double porcentaje = aprobados / matriculados * 100;
     
