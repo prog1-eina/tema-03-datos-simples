@@ -21,7 +21,7 @@ const double PTAS_POR_EURO = 166.386;
  * equivale en euros a 2000 pesetas.
  */
 int main() {
-    int pesetas = 2000;
+    unsigned int pesetas = 2000;
     double euros = pesetas / PTAS_POR_EURO;
     cout << fixed << setprecision(2) << euros << " euros" << endl;
     return 0;
