@@ -19,4 +19,6 @@ int main() {
     double porcentaje = aprobados / matriculados * 100;
     
     cout << porcentaje << endl;
+
+    return 0;
 }
