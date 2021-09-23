@@ -1,9 +1,9 @@
-/*
+/*******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
  * Última revisión: 24 de septiembre de 2020
  * Resumen: Programa que prueba las conversiones automáticas que realiza C++.
- */
+ ******************************************************************************/
 #include <iostream>
 using namespace std;
 
