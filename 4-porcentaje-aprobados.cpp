@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
- * Última revisión: 24 de septiembre de 2020
+ * Última revisión: 23 de septiembre de 2021
  * Resumen: Programa erróneo que pretende escribir en la pantalla un porcentaje. 
  ******************************************************************************/
 #include <iostream>
@@ -13,8 +13,8 @@ using namespace std;
  * estudiantes matriculados.
  */
 int main() {
-    unsigned int aprobados = 95;
-    unsigned int matriculados = 160;
+    unsigned aprobados = 95;
+    unsigned matriculados = 160;
     
     double porcentaje = aprobados / matriculados * 100;
     

@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
- * Última revisión: 24 de septiembre de 2020
+ * Última revisión: 23 de septiembre de 2021
  * Resumen: Programa que escribe en la pantalla la cantidad que
  *          equivale en euros a 2000 pesetas.
  ******************************************************************************/
@@ -21,7 +21,7 @@ const double PTAS_POR_EURO = 166.386;
  * equivale en euros a 2000 pesetas.
  */
 int main() {
-    unsigned int pesetas = 2000;
+    unsigned pesetas = 2000;
     double euros = pesetas / PTAS_POR_EURO;
     cout << fixed << setprecision(2) << euros << " euros" << endl;
     return 0;
