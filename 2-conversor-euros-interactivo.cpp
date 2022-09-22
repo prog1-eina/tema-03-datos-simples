@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
- * Última revisión: 24 de septiembre de 2020
+ * Última revisión: 22 de septiembre de 2022
  * Resumen: Programa que escribe en la pantalla la cantidad equivalente en euros
  *          a una cantidad de dinero entera expresada en pesetas solicitada
  *          previamente al usuario.
@@ -29,5 +29,4 @@ int main() {
     double euros = pesetas / PTAS_POR_EURO;
     
     cout << fixed << setprecision(2) << euros << " euros" << endl;
-    return 0;
 }
