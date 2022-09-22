@@ -4,4 +4,4 @@ Código de las transparencias del tema 3 (Información, datos, operaciones y exp
 
 ## Compilación y ejecución
 
-Cada fichero de este repositorio contiene un programa completo, por lo que puede compilarse y ejecutarse con la extensión Code Runner de Visual Studio Code o a través del menú ``Terminal`` &rarr; ``Run task...`` &rarr; ``Compilar fichero activo en el editor``. Esta segunda opción hará que el compilador muestre advertencias (errores potenciales en el código).
+Cada fichero de este repositorio contiene un programa completo, por lo que puede compilarse y ejecutarse con la extensión Code Runner de Visual Studio Code o a través del menú ``Terminal`` &rarr; ``Run task...`` &rarr; ``Ejecutar fichero activo en el editor``. Esta segunda opción hará que el compilador, si las hay, muestre advertencias (errores potenciales en el código).
