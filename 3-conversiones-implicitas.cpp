@@ -2,13 +2,13 @@
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
  * Última revisión: 22 de septiembre de 2022
- * Resumen: Programa que prueba las conversiones automáticas que realiza C++.
+ * Resumen: Programa que prueba las conversiones implícitas que realiza C++.
  ******************************************************************************/
 #include <iostream>
 using namespace std;
 
 /*
- * Programa que prueba las conversiones automáticas que realiza C++.
+ * Programa que prueba las conversiones implícitas que realiza C++.
  */
 int main() {
     int edad;
