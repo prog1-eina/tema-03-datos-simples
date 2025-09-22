@@ -1,9 +1,9 @@
-/*******************************************************************************
+/******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
  * Última revisión: 22 de septiembre de 2022
- * Resumen: Programa ERRÓNEO que pretende escribir en la pantalla un porcentaje. 
- ******************************************************************************/
+ * Resumen: Programa ERRÓNEO que pretende escribir en pantalla un porcentaje.
+ *****************************************************************************/
 #include <iostream>
 using namespace std;
 

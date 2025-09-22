@@ -1,11 +1,11 @@
-/*******************************************************************************
+/******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
  * Última revisión: 22 de septiembre de 2022
- * Resumen: Programa que escribe en la pantalla la cantidad equivalente en euros
- *          a una cantidad de dinero entera expresada en pesetas solicitada
- *          previamente al usuario.
- ******************************************************************************/
+ * Resumen: Programa que muestra en pantalla la cantidad equivalente en euros a
+ *          una cantidad de dinero entera en pesetas solicitada previamente al
+ *          usuario.
+ *****************************************************************************/
 #include <iostream>
 #include <iomanip>
 using namespace std;
